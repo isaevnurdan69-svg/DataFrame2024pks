@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import io
 
 # Настройка страницы
@@ -264,5 +264,6 @@ else:
     - Рейтинг ВУЗов по прогнозируемым показателям
     - Визуализация трендов и распределений
     """)
+
 
     # Разработана студентами политехнического колледжа МУКР Исаевым Нурданом, Харкей Арафатом, Курманбековым Чынтемиром
